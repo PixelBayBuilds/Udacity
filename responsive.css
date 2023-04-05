@@ -1,0 +1,36 @@
+/* Mobile phones (landscape) */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  .header-img {
+    width: 90%;
+  }
+  .header{
+    width: 90%;
+  }
+}
+
+/* Tablets */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .header-img {
+    width: 90%;
+  }
+  .header{
+    width: 90%;
+  }
+  .intro-para{
+    font-size: 14px;
+  }
+}
+
+/* Desktops and laptops */
+@media only screen and (min-width: 1025px) {
+  .header-img {
+    width: 90%;
+  }
+  .header{
+    width: 90%;
+  }
+  .intro-para{
+    font-size:16px;
+    text-align: center;
+  }
+}
